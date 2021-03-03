@@ -187,6 +187,16 @@ i {
     margin-left: -50px;
 }
 
+#icono2 {
+    display: inline-block;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-left: -60px;
+}
+
 #icono a.iconoPorta:hover {
     color: #647e8d;
 }
