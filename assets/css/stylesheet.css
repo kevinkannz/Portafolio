@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+body {
+    background-image: linear-gradient(#141E30, #243B55);
+    background-repeat: no-repeat;
+    background-size: auto;
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+
+img {
+    width: 270px;
+    height: 240px;
+}
+
+#bio {
+    text-align: center;
+}
+
+#redes {
+    display: inline-block;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    font-size: 40px;
+    margin-left: -40px;
+    margin-top: 10px;
+}
+
+#redes a {
+    margin: 10px;
+    color: black;
+}
+
+#redes a.facebook:hover {
+    color: blue;
+}
+
+#redes a.instagram:hover {
+    color: coral;
+}
+
+#redes a.github:hover {
+    color: purple;
+}
+
+#redes a.email:hover {
+    color: green;
+}
+
+#redes a.twitter:hover {
+    color: aqua;
+}
+
+#redes a.linkedin:hover {
+    color: blue;
+}
+
+#porta {
+    margin-top: -20px;
+}
+
+#portafolio {
+    margin-bottom: -30px;
+}
+
+section {
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    align-content: center;
+    background-color: rgb(170, 170, 170);
+    color: rgb(255, 255, 255);
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.jumbotron {
+    width: 100%;
+    align-items: center;
+    height: 650px;
+    border-radius: 10px;
+}
+
+#profilePic {
+    width: 300px;
+    height: 300px;
+    margin-top: -10px;
+    margin-left: 20%;
+    background-color: black;
+    background-image: url(../img/code.gif);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 0px 0px 100px rgba(90, 89, 89, 0.9);
+}
+
+table {
+    width: 100%;
+}
+
+.container {
+    text-align: center;
+}
+
+#formacionAcademica {
+    margin-bottom: -30px;
+}
+
+#personalText {
+    color: black;
+    font-size: 17px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#mark {
+    color: black;
+    text-align: left;
+}
+
+#markSkill {
+    color: black;
+}
+
+i {
+    padding: 5px;
+}
+
+#icon {
+    color: rgb(255, 255, 255);
+}
