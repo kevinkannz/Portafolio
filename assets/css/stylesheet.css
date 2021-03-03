@@ -67,6 +67,10 @@ img {
 }
 
 #portafolio {
+    margin-top: -15px;
+}
+
+#personalInfo {
     margin-bottom: -30px;
 }
 
@@ -160,4 +164,9 @@ i {
 #iconEstado {
     margin-right: 10px;
     font-size: 25px;
+}
+
+#iconoPorta {
+    font-size: 60px;
+    color: black;
 }
