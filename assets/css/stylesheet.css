@@ -8,6 +8,10 @@ body {
     font-family: 'Roboto Slab', serif;
 }
 
+h2 {
+    color: #292E49;
+}
+
 img {
     width: 290px;
     height: 230px;
