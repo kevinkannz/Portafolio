@@ -171,7 +171,22 @@ i {
     font-size: 25px;
 }
 
-#iconoPorta {
+.iconoPorta {
     font-size: 60px;
     color: black;
+    padding: 40px;
+}
+
+#icono {
+    display: inline-block;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    margin-left: -50px;
+}
+
+#icono a.iconoPorta:hover {
+    color: #647e8d;
 }
