@@ -75,6 +75,7 @@ section {
     color: #292E49;
     padding: 25px;
     border-radius: 10px;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.7);
 }
 
 .jumbotron {
@@ -83,6 +84,7 @@ section {
     height: 650px;
     border-radius: 10px;
     background-color: #d8d8d8;
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.7);
 }
 
 #profilePic {
