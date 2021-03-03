@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
 body {
-    background-image: linear-gradient(#141E30, #243B55);
+    background-image: linear-gradient(#536976, #292E49);
     background-repeat: no-repeat;
     background-size: auto;
     height: 100%;
@@ -9,8 +9,8 @@ body {
 }
 
 img {
-    width: 270px;
-    height: 240px;
+    width: 290px;
+    height: 230px;
 }
 
 #bio {
@@ -35,27 +35,27 @@ img {
 }
 
 #redes a.facebook:hover {
-    color: blue;
+    color: #647e8d;
 }
 
 #redes a.instagram:hover {
-    color: coral;
+    color: #647e8d;
 }
 
 #redes a.github:hover {
-    color: purple;
+    color: #647e8d
 }
 
 #redes a.email:hover {
-    color: green;
+    color: #647e8d;
 }
 
 #redes a.twitter:hover {
-    color: aqua;
+    color: #647e8d;
 }
 
 #redes a.linkedin:hover {
-    color: blue;
+    color: #647e8d;
 }
 
 #porta {
@@ -71,8 +71,8 @@ section {
     margin-top: 40px;
     margin-bottom: 20px;
     align-content: center;
-    background-color: rgb(170, 170, 170);
-    color: rgb(255, 255, 255);
+    background-color: #d8d8d8;
+    color: #292E49;
     padding: 25px;
     border-radius: 10px;
 }
@@ -82,6 +82,7 @@ section {
     align-items: center;
     height: 650px;
     border-radius: 10px;
+    background-color: #d8d8d8;
 }
 
 #profilePic {
@@ -132,8 +133,25 @@ table {
 
 i {
     padding: 5px;
+    margin-left: -0px;
 }
 
 #icon {
-    color: rgb(255, 255, 255);
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+#iconNum {
+    margin-right: 5px;
+    font-size: 25px;
+}
+
+#iconCasa {
+    margin-right: 1px;
+    font-size: 25px;
+}
+
+#iconEstado {
+    margin-right: 10px;
+    font-size: 25px;
 }
