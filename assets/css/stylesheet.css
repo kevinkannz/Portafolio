@@ -204,3 +204,9 @@ i {
 #icono2 a.iconoPorta:hover {
     color: #647e8d;
 }
+
+@media screen and (max-width: 850px) and (min-width: 300px) {
+    #portafolio {
+        margin-bottom: -30px;
+    }
+}
